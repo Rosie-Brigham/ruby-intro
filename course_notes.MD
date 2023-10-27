@@ -2,8 +2,8 @@
 
 ## Names and introductions
 
-- Ask what everyones name are, make a seating plan
-- Ask what experience background everyone is
+<!-- - Ask what everyones name are, make a seating plan
+- Ask what experience background everyone is -->
 
 ## Goals for the lesson
 - Overview of programing concepts
