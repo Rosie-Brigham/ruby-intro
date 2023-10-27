@@ -13,6 +13,8 @@
 # greeting("Aethelstan")
 # greeting("Ragnar")
 
+# Playing with if statements....
+
 # Step three!
 # class Person
 #   def initialize(name)

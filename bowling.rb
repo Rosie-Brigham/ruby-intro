@@ -16,17 +16,10 @@ class Bowling
     # 2. Write code here to check if the score is a strike 
   end
 
-  def spare?
-    # 3. Write code here to check if the score is a spare
-  end
-
   def celebrate
-    # 4. Write code here that will output a celebration line, 
+    # 3. Write code here that will output a celebration line, 
     # if the score is either a strike or a spare
 
-    # hint... use if here
-    # if (srike?) 
-      # puts something
-    # end
+    # hint... use if functionality and call it from the 'hit' method
   end
 end
