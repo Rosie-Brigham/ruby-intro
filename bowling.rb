@@ -2,8 +2,8 @@ class Bowling
   attr_reader :score, :pin_count
 
   def initialize
-    @score = 0
-    @pin_count
+    @score = 0 # this is the overall score
+    @pin_count # this is the pins hit on that go
   end
 
   def hit(pin_count)
@@ -23,3 +23,5 @@ class Bowling
     # hint... use if functionality and call it from the 'hit' method
   end
 end
+
+# Extension... how can the score reflect the actual scoring in bowling?
