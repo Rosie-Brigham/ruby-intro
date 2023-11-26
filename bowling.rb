@@ -8,7 +8,8 @@ class Bowling
 
   def hit(pin_count)
     @pin_count = pin_count
-  
+    
+    @score += pin_count
     #  1. Write code here to add the pin_count to the score
   end
 
